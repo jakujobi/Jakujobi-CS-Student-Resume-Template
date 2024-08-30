@@ -19,7 +19,7 @@ This resume template is designed to be user-friendly, accessible, and highly cus
 
 ### **1. Download the Template**
 
-- You can download the template directly from this repository by clicking on the [Download ZIP](#) button, or by cloning the repo using the following command:
+- You can download the template directly from this repository by clicking on the [[Download the docx]](https://github.com/jakujobi/Jakujobi-CS-Student-Resume-Template/raw/main//Jakujobi-Resume-Template.docx "Download the docx file") button, or by cloning the repo using the following command:
   ```bash
   git clone https://github.com/yourusername/resume-template.git
   ```
@@ -67,7 +67,6 @@ If you have any questions, suggestions, or need assistance with the template, fe
 ## **📜 License**
 
 This project is licensed under the opensource Hippocratic License - see the [LICENSE](LICENSE) file for details.
-
 
 Thank you for using and contributing to the Open-Source Resume Template! We hope it helps you in your job search and career development.
 
